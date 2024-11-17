@@ -5,4 +5,5 @@ Started on 16/11/2024
 
 
 DAY 1: Added necessary files required to make the Instagram Clone (Level 1)
+
 DAY 2: Learnt about Promises in JavaScript.
