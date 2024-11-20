@@ -12,4 +12,4 @@ DAY 3: Made necessary chaanges to the files, completed everything except the "Po
 
 DAY 4: Learnt more about Promises in js.
 
-DAY 5: Learnt about async/await in js.
+DAY 5: Learnt about async/await, try/catch/finally - error handling in js.
