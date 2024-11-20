@@ -8,4 +8,8 @@ DAY 1: Added necessary files required to make the Instagram Clone (Level 1)
 
 DAY 2: Learnt about Promises in JavaScript.
 
-DAY 3: Made necessary chaanges to the files, completed everything except the "Posts" part (Level 1)
+DAY 3: Made necessary chaanges to the files, completed everything except the "Posts" part (Level 1) [Instagram Clone]
+
+DAY 4: Learnt more about Promises in js.
+
+DAY 5: Learnt about async/await in js.
