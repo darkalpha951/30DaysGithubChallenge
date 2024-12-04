@@ -17,3 +17,5 @@ DAY 5: Learnt about async/await, try/catch/finally - error handling in js.
 DAY 6: Revised Promises
 
 DAY 7: Did couple of programs using Promises.
+
+DAY 8: Learnt about Fetch API in JavaScript.
