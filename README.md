@@ -19,3 +19,9 @@ DAY 6: Revised Promises
 DAY 7: Did couple of programs using Promises.
 
 DAY 8: Learnt about Fetch API in JavaScript.
+
+DAY 9: Learnt how to send POST request using Fetch API.
+
+DAY 10: Learnt about cookies in JavaScript.
+
+DAY 11: Learnt about localStorage and sessionStorage in JavaScript.
